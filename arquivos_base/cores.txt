@@ -1,0 +1,97 @@
+------ HEADER -------
+Fontes:
+Roboto 700
+Open Sans 700
+Open Sans 400
+Fontes cor header = #ffffff
+Botão verde gradient: #33D16B  -  #21A44F
+
+------ Section 01 -------
+Background: #E5E5E5
+Roboto 700   36px
+Cor: #2B3241 e #005374
+Roboto 400   20px
+Cor: #000000
+
+------ Section 02 ------
+Background: #011F27
+Roboto 700  30px
+Cor: #ffffff
+
+------ Section 03 ------
+Background: #E5E5E5
+Roboto 400  20px
+Cor: #000000
+
+------ Section 04 ------
+Background: #011F27
+Roboto 700  30px
+Color: #ffffff
+
+------ Section 05 ------
+Background: bg_farol
+Roboto 700   64px
+Color: #2B3241  e  #F48646
+Roboto 400  24px
+
+------ Section 06 ------
+Background: #011F27
+Img: busula
+Roboto 700 30px
+Color: #ffffff
+Roboto 400  24px
+
+------ Section 07 ------
+Background: bg_adultos_saudaveis
+Roboto 700  50px
+Color: #2B3241
+
+------ Section 08 ------
+Background: #011F27
+Roboto 700  40px
+Color: #ffffff
+Open Sans 700  16px
+Color: #ffffff
+Roboto 700  36px
+Color: #ffffff
+Open Sans 400  18px
+Color: #ffffff
+Botão verde gradient: #33D16B  -  #21A44F
+
+------ Section 08 ------
+Background: #E5E5E5
+Roboto 800  25px
+Color: #ffffff
+Roboto 700  20px
+Color: #343434
+Roboto 400  16px
+Color: #343434
+Roboto 400  16px
+Color: #343434
+
+
+------ Moldal - Formulário -----
+Roboto 700  24px CX Alta
+Campo e-mail
+Campo Nome e Sobrenome
+Roboto 400  12px
+Botão verde gradient: #33D16B  -  #21A44F
+
+------ Perguntas frequentes --------
+Pergunta 1  ^
+Resposta da pergunta 1
+
+
+
+Compactar, fundo branco: https://tinypng.com/
+	                 https://kraken.io/web-interface
+Converter: https://png2jpg.com/
+
+Bootstrap:
+Acordion
+Modal - Varying modal content
+
+
+
+
+

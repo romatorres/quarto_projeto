@@ -1,0 +1,109 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;700;900&display=swap');
+
+$success: #21A44F;
+
+body{
+    background: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* FONTS */
+.font_roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.font_open{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* COLORS */
+.text-primary{
+    color: #005374 !important;
+}
+.text-secondary{
+    color: #2B3241 !important;
+}
+.text-warning{
+    color: #F48646 !important;
+}
+
+/* HEADER */
+header{
+    background-color: #021F25;
+}
+.bg_header{
+    background-image: url(../../dist/img/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.busula_img{
+    height: 180px;
+}
+.btn_header{
+    height: 5.1rem;
+    border-radius: 20px;
+    background: linear-gradient(180deg, #33D16B 0%, #21A44F 100%);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+/* SECTIONS */
+.section_rectangle{
+    background-color: #011F27;
+}
+.section_bg-farol{
+    background-image: url(../../dist/img/bg_farol.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.section_healthy-adults{
+    background-image: url(../../dist/img/bg_adultos_saudaveis.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 1246px;
+}
+
+/* FOOTER */
+.accordion-flush{
+    border-radius: 10px;
+}
+
+/* MODAL */
+.btn_modal{
+    height: 4rem;
+    border-radius: 20px;
+    background: linear-gradient(180deg, #33D16B 0%, #21A44F 100%);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px; 
+}
+.modal-header{
+    border: none;
+}
+.modal-body{
+    border: none;
+}
+.modal-footer{
+    border: none;
+}
+
+/* MEDIA QUERY */
+@media (max-width: 768px)
+{
+  .bg_header
+   {
+    background-image: none;
+   }
+   .section_bg-farol
+   {
+    background-image: none;
+   }
+   .section_healthy-adults{
+    background-position: left 70% top 50%;
+    height: 800px;
+   }
+}
